@@ -1,6 +1,6 @@
 # Introduction to Python Course
  
-This course is based on the below book and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). Kinga Sipos added Chapter *13-Plotting* to provide a first experience with plotting in Python and some extra exercises in order to enhance the interactivity of the course.
+This course is based on the below book and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). I (Kinga Sipos) added Chapter *13-Plotting* to provide a first experience with plotting in Python and some extra exercises in order to enhance the interactivity of the course.
 
 <img src="Course/fig/cover-large.gif">
 
