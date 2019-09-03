@@ -43,8 +43,6 @@ The materials from *Jake VanderPlas* were modified respecting the licence they w
 license, and thus you are free to re-use, modify, build-on, and enhance
 this material for any purpose.
 
-That said, I request (but do not require) that if you use or adapt this material,
-
 Respecting the wish of *Jake VanderPlast*, we include a proper attribution and/or citation of the materials consituting the basis of this course:
 
 > *A Whirlwind Tour of Python* by Jake VanderPlas (O'Reilly). Copyright 2016 O'Reilly Media, Inc., 978-1-491-96465-1
